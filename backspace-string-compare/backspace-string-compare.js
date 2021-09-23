@@ -30,4 +30,5 @@ var backspaceCompare = function(S, T) {
     }
     
     return true;
+ //end
 };
