@@ -3,6 +3,7 @@
  * @param {string} t
  * @return {boolean}
  */
+//start
 const buildString = function(string) {
     const builtString = [];
     for(let p = 0; p < string.length; p++) {
