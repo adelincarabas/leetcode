@@ -2,6 +2,7 @@
  * @param {number[]} height
  * @return {number}
  */
+//start
 var maxArea = function(height) {
   let p1 = 0;
   let found = 0;
