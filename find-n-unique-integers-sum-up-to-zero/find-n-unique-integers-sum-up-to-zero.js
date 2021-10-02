@@ -1,7 +1,4 @@
-/**
- * @param {number} n
- * @return {number[]}
- */
+
 var sumZero = function(n) {
     let result = [];
   if(n % 2 !== 0) {
