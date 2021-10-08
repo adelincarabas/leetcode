@@ -1,6 +1,7 @@
 /**
  * Initialize your data structure here.
  */
+//
 var MyQueue = function() {
     this.in = [];
     this.out = [];
